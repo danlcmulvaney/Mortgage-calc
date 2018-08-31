@@ -1,0 +1,14 @@
+---------------------------------------
+             Loan Terms
+---------------------------------------
+Loan Amount:                    175000
+Interest Rate:                   5.00%
+Term:                         30 years
+---------------------------------------
+
+
+Monthly payment is:                    939.44
+Total interest is:                  163197.62
+Total amount paid is:               338197.62
+
+
